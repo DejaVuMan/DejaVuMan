@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2>Hello There. <img src="https://emojis.slackmojis.com/emojis/images/1643514670/6723/hyperfastparrot.gif?1643514670" width="50"></h2>
+<p>
+  <em>3rd-year Computer Science student at <a href="http://www.uwm.edu.pl/">University of Warmia and Mazury</a>
+</br>Software Development intern at <a href="https://www.xpo.com/">XPO Logistics</a>
+  </em>
+</p>
 
-<!--
-**DejaVuMan/DejaVuMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+static void AboutMe()
+{
+  string[] languages = {"C#", "Java", "Python", "C", "SQL"}; 
+  string[] devTools  = {"Docker", "Visual Studio", "IntelliJ IDEA", "Google Cloud Platform"};
+  bool isLearning = true;
+  string funFact = "IBM's maintenance manual from 1975 is famous for the line, \"By all means, do not use a hammer.\"";
+}
+```
+I'm currently working on a number of personal and professional projects, such as:
+* Developing the backend for an onboarding application with Springboot for <a href="https://venturelabs.team/"><img src="https://venturelabs.team/wp-content/uploads/2021/04/VentureLabs-Horizontal-White-300x76.png" width="100"></a>
+* Developing an app for file encryption that is cross-compatible on mobile devices with <a href="https://github.com/DejaVuMan/FileEncApp">C# and Xamarin</a>
+* Assisting in development of popular open-source Minecraft mods and plugins
+* Learning how to develop software in C for embedded systems and microcontrollers
