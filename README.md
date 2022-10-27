@@ -15,7 +15,7 @@ static void AboutMe()
 }
 ```
 I'm currently working on a number of personal and professional projects, such as:
-* Developing the backend for an onboarding application with Springboot for <a href="https://venturelabs.team/"><img src="https://venturelabs.team/wp-content/uploads/2021/04/VentureLabs-Horizontal-White-300x76.png" width="100"></a>
+* Developing the backend for an onboarding application with Springboot for <a href="https://venturelabs.team/"><img src="https://venturelabs.team/venture-labs-logo-big.png" width="100"></a>
 * Developing an app for file encryption that is cross-compatible on mobile devices with <a href="https://github.com/DejaVuMan/FileEncApp">C# and Xamarin</a>
 * Assisting in development of popular open-source Minecraft mods and plugins
 * Learning how to develop software in C for embedded systems and microcontrollers
