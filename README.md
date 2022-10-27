@@ -1,6 +1,6 @@
 <h2>Hello There. <img src="https://emojis.slackmojis.com/emojis/images/1643514670/6723/hyperfastparrot.gif?1643514670" width="50"></h2>
 <p>
-  <em>3rd-year Computer Science student at <a href="http://www.uwm.edu.pl/">University of Warmia and Mazury</a>
+  <em>4th-year Computer Science student at <a href="http://www.uwm.edu.pl/">University of Warmia and Mazury</a>
 </br>Software Development intern at <a href="https://www.xpo.com/">XPO Logistics</a>
   </em>
 </p>
