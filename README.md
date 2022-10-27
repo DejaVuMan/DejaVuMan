@@ -10,6 +10,7 @@ static void AboutMe()
 {
   string[] languages = {"C#", "Java", "Python", "C", "SQL"}; 
   string[] devTools  = {"Docker", "Visual Studio", "IntelliJ IDEA", "Google Cloud Platform"};
+  string[] frameworks = {"React", "React Native", "Django"};
   bool isLearning = true;
   string funFact = "IBM's maintenance manual from 1975 is famous for the line, \"By all means, do not use a hammer.\"";
 }
