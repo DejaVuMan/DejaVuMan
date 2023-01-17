@@ -9,7 +9,7 @@
 static void AboutMe()
 {
   string[] languages = {"C#", "Java", "Python", "C", "SQL"}; 
-  string[] devTools  = {"Docker", "Visual Studio", "IntelliJ IDEA", "Google Cloud Platform"};
+  string[] devTools  = {"Docker", "Visual Studio", "IntelliJ IDEA", "Google Cloud Platform", "Postman"};
   string[] frameworks = {"React", "React Native", "Django"};
   bool isLearning = true;
   string funFact = "IBM's maintenance manual from 1975 is famous for the line, \"By all means, do not use a hammer.\"";
@@ -20,3 +20,4 @@ I'm currently working on a number of personal and professional projects, such as
 * Developing an app for file encryption that is cross-compatible on mobile devices with <a href="https://github.com/DejaVuMan/FileEncApp">C# and Xamarin</a>
 * Assisting in development of popular open-source Minecraft mods and plugins
 * Learning how to develop software in C for embedded systems and microcontrollers
+* <a href="https://github.com/DejaVuMan/Jpeg-Reverse-Engineering">Reverse engineering</a> the base JPEG standard in an OOP language such as Java
